@@ -1,4 +1,4 @@
-## Hi there 👋
+## 0 eu sou o otavio, sou aluno da escola Capitáo e estou no [ultimo ano do ensino m[edio👋
 
 <!--
 **xxWalkerxXz/xxWalkerxXz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
